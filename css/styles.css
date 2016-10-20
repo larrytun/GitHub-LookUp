@@ -1,0 +1,26 @@
+h1 {
+  color: #dae4e5;
+  font-family: 'Bungee Inline';
+  font-weight: lighter;
+  font-size: 80px;
+}
+
+label {
+  font-size: 30px;
+  font-family: 'Bungee Inline';
+  color: white;
+}
+
+body {
+  background-image: url("http://github-images.s3.amazonaws.com/blog/2011/cc-wallpaper-desktop.png");
+  background-size: contain;
+}
+
+.repoDisplay {
+  font-family: 'Bungee Inline';
+}
+
+.display {
+  font-family: 'Bungee Inline';
+  color: white;
+}

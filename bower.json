@@ -1,0 +1,22 @@
+{
+  "name": "github-lookup",
+  "description": "#### _A website that displays Github user information for Epicodus, Aug 26, 2016_",
+  "main": "index.js",
+  "authors": [
+    "larrydeantun@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/larrytun/GitHub-LookUp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.15.1"
+  }
+}
