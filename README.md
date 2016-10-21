@@ -12,8 +12,11 @@ _This application allows you to display information about any user you search fo
 
 * _Clone this repository_
 * _Open an HTTP server in the cloned directory_
-* _This page requires bootstrap, gulp, bower, node, sass, jquery, scripts.js, and styles.css to run_
-* _Link to repository: 'https://github.com/larrytun/GitHub-LookUp'_
+* _Create a file named .env in the top level of the project directory_
+* _Obtain a github token from https://github.com/settings/tokens/new_
+* _Place the token in the .env file like this: exports.apiKey="TOKEN";_
+* _Run these in the top level of project directory in the terminal: "npm install", "bower install", "gulp build", and "gulp serve"_
+* _Link to repository: 'https://github.com/larrytun/Meal-Tracker'_
 
 
 ## Known Bugs
